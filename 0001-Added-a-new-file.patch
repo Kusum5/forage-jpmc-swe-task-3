@@ -1,0 +1,21 @@
+From 7c3b99a77bf6eeaa3c97d10ea9593352fd0cb7f7 Mon Sep 17 00:00:00 2001
+From: Kusum <kumarikusum102@gmail.com>
+Date: Fri, 16 Aug 2024 20:59:17 +0530
+Subject: [PATCH] Added a new file
+
+---
+ demo.py | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 demo.py
+
+diff --git a/demo.py b/demo.py
+new file mode 100644
+index 0000000..08b53ec
+--- /dev/null
++++ b/demo.py
+@@ -0,0 +1 @@
++print("Demo git")
+\ No newline at end of file
+-- 
+2.39.1.windows.1
+
